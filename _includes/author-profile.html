@@ -35,12 +35,8 @@
       {% endif %}
       default: "Email" }}</a></li>
       
-      {% if author.email %}
-  <li>
-    <i class="fas fa-envelope"></i>
-    <a href="mailto:{{ author.email }}">{{ author.email }}</a>
-  </li>
-     {% endif %}
+      {% if author.email %} <li> <i class="fas fa-envelope"></i>
+    <a href="mailto:{{ author.email }}">{{ author.email }}</a> </li> {% endif %}
 
       
       <!-- Font Awesome and Academicons icons / Academic websites -->
