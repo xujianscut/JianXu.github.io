@@ -6,16 +6,18 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-title: "Jian Xu"
-subtitle: "Ph.D. Student at SCUT / RIKEN AIP"
-name: &name "Jian Xu"
-description: &description "Ph.D. candidate in computational mathematics, working on Bayesian machine learning and generative models"
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "default"
+title                    : "Jian Xu / Ph.D Student"
+title_separator          : "-"
+name                     : &name "Your Name"
+description              : &description "personal description"
+
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-#url: "https://xujianscut.github.io"
-#baseurl: ""
-#repository: "xujianscut/JianXu.github.io"  # no trailing slash!
+
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
