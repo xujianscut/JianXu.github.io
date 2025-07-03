@@ -47,6 +47,7 @@ I am currently a visiting Ph.D. student at **RIKEN Center for Advanced Intellige
 - *Neural Operator Variational Inference* – **IEEE TNNLS** https://ieeexplore.ieee.org/abstract/document/10637293
 - *Fully Bayesian Differential Gaussian Processes* – **KBS** https://www.sciencedirect.com/science/article/abs/pii/S0950705125002345
 - *Double Normalizing Flows for Bayesian ODEs* – **AISTATS 2025** https://proceedings.mlr.press/v258/xu25b.html
+- Variational Learning of Gaussian Process Latent Variable Models through Stochastic Gradient Annealed Importance Sampling – **UAI 2025** https://www.arxiv.org/abs/2408.06710
 
 
 
