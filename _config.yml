@@ -28,7 +28,7 @@ author:
   avatar           : "profile.png"
   name             : "Jian Xu"
   pronouns         : "he"  
-  bio              : "Short biography for the left-hand sidebar"
+  #bio              : "Short biography for the left-hand sidebar"
   location         : "Guangzhou/ Tokyo"
   employer         : "SCUT/ RIKEN"
   uri              : # URL
