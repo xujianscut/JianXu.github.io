@@ -48,7 +48,7 @@ I am currently a visiting Ph.D. student at **RIKEN Center for Advanced Intellige
 - *Fully Bayesian Differential Gaussian Processes* – **KBS** https://www.sciencedirect.com/science/article/abs/pii/S0950705125002345
 - *Double Normalizing Flows for Bayesian ODEs* – **AISTATS 2025** https://proceedings.mlr.press/v258/xu25b.html
 
-[View full publication list →](/publications/)
+
 
 
 ### 📬 Contact
