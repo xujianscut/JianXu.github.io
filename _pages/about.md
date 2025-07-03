@@ -6,13 +6,13 @@ author_profile: true
 
 I am **Jian Xu**, currently pursuing my Ph.D. in *Computational Mathematics and Electronic Information* at **South China University of Technology (SCUT)**, advised by **Professor Delu Zeng**. My research interests lie at the intersection of **probabilistic machine learning**, **stochastic processes**, **generative models**, **differential equations**, and **large language models**.
 
-I aim to integrate advanced mathematical tools with machine learning to understand intelligent emergence and design efficient Bayesian inference frameworks for complex tasks. I have published multiple first-author papers in top-tier venues including **ICML (Oral, Top 1%)**, **AAAI**, **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, **Knowledge-Based Systems (KBS)**, and **AISTATS**. Several other works are currently under review at prestigious conferences and journals such as **NeurIPS** and **TPAMI**.
+I aim to integrate advanced mathematical tools with machine learning, focusing primarily on generative models and Bayesian methods such as Gaussian processes, to build principled and efficient inference frameworks. I have published multiple first-author papers in top-tier venues including **ICML (Oral, Top 1%)**, **AAAI**, **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, **Knowledge-Based Systems (KBS)**, and **AISTATS**. Several other works are currently under review at prestigious conferences and journals such as **NeurIPS** and **TPAMI**.
 
 ### 🎓 Education
 
 - **Ph.D. in Computational Mathematics & Electronic Information**  
   *South China University of Technology*, 2020 – Present  
-  - First-class academic scholarship  
+  - First-author papers accepted at top-tier conferences, including **ICML Oral (Top 1%)**
   - Advisor: Prof. Delu Zeng
 
 - **M.Sc. in Basic Mathematics**  
@@ -42,17 +42,11 @@ I aim to integrate advanced mathematical tools with machine learning to understa
 
 [View full publication list →](/publications/)
 
-### 🧪 Project Highlights
-
-- **National Natural Science Foundation Proposal Support (2023–2024)**  
-  Project Title: *Intelligent Emergence Mechanism Research of Generative Models*  
-  Focused on developing analytical tools for investigating emergence, instruction fine-tuning, scenario learning, and chain-of-thought reasoning in generative AI.
 
 ### 📬 Contact
 
 - **Email**: [2713091379@qq.com](mailto:2713091379@qq.com)  
-- **Phone**: +86 180 9839 1332  
-- **Location**: Wushan Campus, SCUT, Guangzhou, China
+ - **Location**: Wushan Campus, SCUT, Guangzhou, China
 
 ---
 
