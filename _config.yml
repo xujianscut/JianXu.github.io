@@ -24,17 +24,17 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jian Xu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Guangzhou\nTokyo"
-  employer         : "South China University of China/ RIKEN"
+  location         : "Guangzhou/ Tokyo"
+  employer         : "SCUT/ RIKEN"
   uri              : # URL
   email            : "2713091379@qq.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=DublkSoAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
