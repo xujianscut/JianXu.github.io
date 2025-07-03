@@ -8,6 +8,12 @@ I am **Jian Xu**, currently pursuing my Ph.D. in *Computational Mathematics and 
 
 I aim to integrate advanced mathematical tools with machine learning, focusing primarily on generative models and Bayesian methods such as Gaussian processes, to build principled and efficient inference frameworks. I have published multiple first-author papers in top-tier venues including **ICML (Oral, Top 1%)**, **AAAI**, **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, **Knowledge-Based Systems (KBS)**, and **AISTATS**. Several other works are currently under review at prestigious conferences and journals such as **NeurIPS** and **TPAMI**.
 
+I am currently a visiting Ph.D. student at **RIKEN Center for Advanced Intelligence Project (AIP)** in Japan, under the supervision of **Prof. Qibin Zhao**, supported by the China Scholarship Council (CSC). My research during this period focuses on advanced Bayesian generative modeling and probabilistic inference.
+
+
+
+
+
 ### 🎓 Education
 
 - **Ph.D. in Computational Mathematics & Electronic Information**  
@@ -30,15 +36,15 @@ I aim to integrate advanced mathematical tools with machine learning, focusing p
 - Deep Gaussian Processes  
 - Stochastic Differential Equations  
 - Generative Models & Diffusion Inference  
-- Neural Operators & Large Language Models
+- Variation Inference & Stochastic Processes Models
 
 ### 📝 Selected Publications
 
-- *Sparse Inducing Points in Deep Gaussian Processes* – **ICML 2024 (Oral, Top 1%)**
-- *Sparse Variational Student-t Processes* – **AAAI 2024**
-- *Neural Operator Variational Inference* – **IEEE TNNLS**
-- *Fully Bayesian Differential Gaussian Processes* – **KBS (2025)**
-- *Double Normalizing Flows for Bayesian ODEs* – **AISTATS 2025**
+- *Sparse Inducing Points in Deep Gaussian Processes* – **ICML 2024 (Oral, Top 1%)** https://arxiv.org/pdf/2407.17033
+- *Sparse Variational Student-t Processes* – **AAAI 2024** https://arxiv.org/abs/2312.05568
+- *Neural Operator Variational Inference* – **IEEE TNNLS** https://ieeexplore.ieee.org/abstract/document/10637293
+- *Fully Bayesian Differential Gaussian Processes* – **KBS** https://www.sciencedirect.com/science/article/abs/pii/S0950705125002345
+- *Double Normalizing Flows for Bayesian ODEs* – **AISTATS 2025** https://proceedings.mlr.press/v258/xu25b.html
 
 [View full publication list →](/publications/)
 
