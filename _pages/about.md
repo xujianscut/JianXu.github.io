@@ -8,6 +8,8 @@ I am **Jian Xu**, currently pursuing my Ph.D. in *Computational Mathematics and 
 
 I aim to integrate advanced mathematical tools with machine learning, focusing primarily on generative models and Bayesian methods such as Gaussian processes, to build principled and efficient inference frameworks. I have published multiple first-author papers in top-tier venues including **ICML (Oral, Top 1%)**, **AAAI**, **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, **Knowledge-Based Systems (KBS)**, and **AISTATS**. Several other works are currently under review at prestigious conferences and journals such as **NeurIPS** and **TPAMI**.
 
+I have been actively collaborating with **Prof. John Paisley** from **Columbia University**, with a focus on advanced Bayesian machine learning and variational inference. Several of our joint papers have been accepted or are under review at top-tier conferences and journals, including ICML, TPAMI, and NeurIPS.
+
 I am currently a visiting Ph.D. student at **RIKEN Center for Advanced Intelligence Project (AIP)** in Japan, under the supervision of **Prof. Qibin Zhao**, supported by the China Scholarship Council (CSC). My research during this period focuses on advanced Bayesian generative modeling and probabilistic inference.
 
 
