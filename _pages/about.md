@@ -4,6 +4,56 @@ permalink: /about/
 author_profile: true
 ---
 
-你好，我是李明，清华大学计算机系博士研究生。研究方向包括人工智能、多模态学习与大模型。
+I am **Jian Xu**, currently pursuing my Ph.D. in *Computational Mathematics and Electronic Information* at **South China University of Technology (SCUT)**, advised by **Professor Delu Zeng**. My research interests lie at the intersection of **probabilistic machine learning**, **stochastic processes**, **generative models**, **differential equations**, and **large language models**.
 
-欢迎访问我的主页或通过邮箱联系我。
+I aim to integrate advanced mathematical tools with machine learning to understand intelligent emergence and design efficient Bayesian inference frameworks for complex tasks. I have published multiple first-author papers in top-tier venues including **ICML (Oral, Top 1%)**, **AAAI**, **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, **Knowledge-Based Systems (KBS)**, and **AISTATS**. Several other works are currently under review at prestigious conferences and journals such as **NeurIPS** and **TPAMI**.
+
+### 🎓 Education
+
+- **Ph.D. in Computational Mathematics & Electronic Information**  
+  *South China University of Technology*, 2020 – Present  
+  - First-class academic scholarship  
+  - Advisor: Prof. Delu Zeng
+
+- **M.Sc. in Basic Mathematics**  
+  *South China University of Technology*, 2018 – 2020  
+  - First-class academic scholarship  
+  - Advisor: Assoc. Prof. Bingsheng Lin
+
+- **B.A. in Business Administration**  
+  *Communication University of China*, 2013 – 2017  
+  - Second Prize, National College Student Mathematics Competition
+
+### 🔬 Research Focus
+
+- Probabilistic Machine Learning  
+- Deep Gaussian Processes  
+- Stochastic Differential Equations  
+- Generative Models & Diffusion Inference  
+- Neural Operators & Large Language Models
+
+### 📝 Selected Publications
+
+- *Sparse Inducing Points in Deep Gaussian Processes* – **ICML 2024 (Oral, Top 1%)**
+- *Sparse Variational Student-t Processes* – **AAAI 2024**
+- *Neural Operator Variational Inference* – **IEEE TNNLS**
+- *Fully Bayesian Differential Gaussian Processes* – **KBS (2025)**
+- *Double Normalizing Flows for Bayesian ODEs* – **AISTATS 2025**
+
+[View full publication list →](/publications/)
+
+### 🧪 Project Highlights
+
+- **National Natural Science Foundation Proposal Support (2023–2024)**  
+  Project Title: *Intelligent Emergence Mechanism Research of Generative Models*  
+  Focused on developing analytical tools for investigating emergence, instruction fine-tuning, scenario learning, and chain-of-thought reasoning in generative AI.
+
+### 📬 Contact
+
+- **Email**: [2713091379@qq.com](mailto:2713091379@qq.com)  
+- **Phone**: +86 180 9839 1332  
+- **Location**: Wushan Campus, SCUT, Guangzhou, China
+
+---
+
+Thanks for visiting! Feel free to [contact me](/contact/) or check out my [research projects](/projects/).
