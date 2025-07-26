@@ -54,7 +54,7 @@ I am currently a visiting Ph.D. student at **RIKEN Center for Advanced Intellige
 
 ### 📬 Contact
 
-- **Email**: [2713091379@qq.com](mailto:2713091379@qq.com)  
+- **Email**: [2713091379@qq.com](mailto:2713091379@qq.com) or [jian.xu@a.riken.jp](mailto:jian.xu@a.riken.jp)
  - **Location**: Wushan Campus, SCUT, Guangzhou, China
 
 ---
