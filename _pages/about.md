@@ -22,7 +22,7 @@ I have been actively collaborating with **Prof. John Paisley** from **Columbia U
   *South China University of Technology*, 2020 – 2025  
   - First-author papers accepted at top-tier conferences, including **ICML Oral (Top 1%)**
   - Advisor: Prof. Delu Zeng
-  - Coadvisor: Prof.Qinbin Zhao & Prof. John Paisley
+  - Coadvisor: Prof.Qibin Zhao & Prof. John Paisley
 
 - **M.Sc. in Basic Mathematics**  
   *South China University of Technology*, 2018 – 2020  
