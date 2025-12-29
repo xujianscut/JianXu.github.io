@@ -4,7 +4,7 @@ permalink: /about/
 author_profile: true
 ---
 
-I am **Jian Xu**, currently pursuing my Ph.D. in *Computational Mathematics and Electronic Information* at **South China University of Technology (SCUT)**, advised by **Professor Delu Zeng**. My research interests lie at the intersection of **probabilistic machine learning**, **stochastic processes**, **generative models**, **differential equations**, and **large language models**.
+I am Jian Xu. I received my Ph.D. in Computational Mathematics and Electronic Information from South China University of Technology (SCUT) in December 2025, under the supervision of Professor Delu Zeng. My research interests lie at the intersection of probabilistic machine learning, stochastic processes, generative models, differential equations, and large language models.
 
 I aim to integrate advanced mathematical tools with machine learning, focusing primarily on generative models and Bayesian methods such as Gaussian processes, to build principled and efficient inference frameworks. I have published multiple first-author papers in top-tier venues including **ICML (Oral, Top 1%)**, **AAAI**, **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, **Knowledge-Based Systems (KBS)**, and **AISTATS**. Several other works are currently under review at prestigious conferences and journals such as **NeurIPS** and **TPAMI**.
 
