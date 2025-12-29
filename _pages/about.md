@@ -4,11 +4,11 @@ permalink: /about/
 author_profile: true
 ---
 
-I am Jian Xu. I received my Ph.D. in Computational Mathematics and Electronic Information from South China University of Technology (SCUT) in December 2025, under the supervision of Professor Delu Zeng. I am currently a research intern at the RIKEN Center for Advanced Intelligence Project (AIP) in Japan, supervised by Professor Qibin Zhao. My research interests lie at the intersection of probabilistic machine learning, stochastic processes, generative models, differential equations, and large language models.
+I am Jian Xu. I received my Ph.D. in Computational Mathematics and Electronic Information from South China University of Technology (SCUT) in December 2025, under the supervision of Professor Delu Zeng. I am currently a research intern at the RIKEN Center for Advanced Intelligence Project (AIP) in Japan, supervised by Professor Qibin Zhao.
 
-I aim to integrate advanced mathematical tools with machine learning, focusing primarily on generative models and Bayesian methods such as Gaussian processes, to build principled and efficient inference frameworks. I have published multiple first-author papers in top-tier venues including **ICML (Oral, Top 1%)**, **AAAI**, **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, **Knowledge-Based Systems (KBS)**, and **AISTATS**. Several other works are currently under review at prestigious conferences and journals such as **NeurIPS** and **TPAMI**.
+My research lies at the intersection of probabilistic machine learning, stochastic processes, generative modeling, differential equation-based methods, and large language models. I aim to integrate advanced mathematical tools with modern machine learning, with a focus on Bayesian generative models and principled inference, including Gaussian processes and variational inference.
 
-I have been actively collaborating with **Prof. John Paisley** from **Columbia University**, with a focus on advanced Bayesian machine learning and variational inference. Several of our joint papers have been accepted or are under review at top-tier conferences and journals, including ICML, TPAMI, and NeurIPS.
+My first-author work has appeared in ICML (Oral, Top 1%), AAAI, AISTATS, TNNLS, and KBS. Several manuscripts are currently under review. I also collaborate closely with Professor John Paisley (Columbia University) on Bayesian machine learning and variational inference.
 
 
 
@@ -22,7 +22,7 @@ I have been actively collaborating with **Prof. John Paisley** from **Columbia U
   *South China University of Technology*, 2020 – 2025  
   - First-author papers accepted at top-tier conferences, including **ICML Oral (Top 1%)**
   - Advisor: Prof. Delu Zeng
-  - Coadvisor: Prof.Qibin Zhao & Prof. John Paisley
+  - Mentor/host: Prof.Qibin Zhao & Prof. John Paisley
 
 - **M.Sc. in Basic Mathematics**  
   *South China University of Technology*, 2018 – 2020  
