@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jian Xu / Ph.D Student"
+title                    : "Jian Xu / Ph.D"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
