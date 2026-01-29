@@ -4,11 +4,13 @@ permalink: /about/
 author_profile: true
 ---
 
-I am Jian Xu. I received my Ph.D. in Computational Mathematics and Electronic Information from South China University of Technology (SCUT) in December 2025, under the supervision of Professor Delu Zeng. I am currently a research intern at the RIKEN Center for Advanced Intelligence Project (AIP) in Japan, supervised by Professor Qibin Zhao.
+I am Jian Xu. I received my Ph.D. in Computational Mathematics and Electronic Information from South China University of Technology (SCUT) in December 2025, under the supervision of Professor Delu Zeng. I am currently a postdoc researcher  at the RIKEN iTMEMS & AIP in Japan, supervised by Professor Qibin Zhao.
 
-My research lies at the intersection of probabilistic machine learning, stochastic processes, generative modeling, differential equation-based methods, and large language models. I aim to integrate advanced mathematical tools with modern machine learning, with a focus on Bayesian generative models and principled inference, including Gaussian processes and variational inference.
+My research lies at the intersection of probabilistic machine learning, stochastic processes, generative modeling, differential equation–based methods, and Quantum Machine Learning. I aim to integrate advanced mathematical tools with modern machine learning, with a particular focus on Bayesian generative models and principled inference, including Gaussian processes, variational inference, and diffusion models.
 
-My first-author work has appeared in ICML (Oral, Top 1%), AAAI, AISTATS, TNNLS, and KBS. Several manuscripts are currently under review. I also collaborate closely with Professor John Paisley (Columbia University) on Bayesian machine learning and variational inference.
+During my postdoctoral research, I primarily work on projects related to Quantum Machine Learning. This project is jointly led by RIKEN iTMEMS and RIKEN AIP, with the goal of promoting the application of quantum methods in machine learning.
+
+My first-author work has appeared in ICML (Oral, Top 1%), ICLR, AAAI, AISTATS, TNNLS, and KBS. Several manuscripts are currently under review. I also collaborate closely with Professor John Paisley (Columbia University) on Bayesian machine learning and variational inference.
 
 
 
@@ -20,7 +22,7 @@ My first-author work has appeared in ICML (Oral, Top 1%), AAAI, AISTATS, TNNLS, 
 
 - **Ph.D. in Computational Mathematics & Electronic Information**  
   *South China University of Technology*, 2020 – 2025  
-  - First-author papers accepted at top-tier conferences, including **ICML Oral (Top 1%)**
+  - First-author papers accepted at top-tier conferences, including **ICML Oral (Top 1%)** and ICLR
   - Advisor: Prof. Delu Zeng
   - Mentor/host: Prof.Qibin Zhao & Prof. John Paisley
 
@@ -40,9 +42,10 @@ My first-author work has appeared in ICML (Oral, Top 1%), AAAI, AISTATS, TNNLS, 
 - Stochastic Differential Equations  
 - Generative Models & Diffusion Inference  
 - Variation Inference & Stochastic Processes Models
+- Quantum Machine Learning
 
 ### 📝 Selected Publications
-
+- *Diffusion Bridge Variational Inference for Deep Gaussian Processes* - **ICLR 2026** https://arxiv.org/pdf/2509.19078
 - *Sparse Inducing Points in Deep Gaussian Processes* – **ICML 2024 (Oral, Top 1%)** https://arxiv.org/pdf/2407.17033
 - *Sparse Variational Student-t Processes* – **AAAI 2024** https://arxiv.org/abs/2312.05568
 - *Neural Operator Variational Inference* – **IEEE TNNLS** https://ieeexplore.ieee.org/abstract/document/10637293
