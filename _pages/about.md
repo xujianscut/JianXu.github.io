@@ -58,7 +58,7 @@ My first-author work has appeared in ICML (Oral, Top 1%), ICLR, AAAI, AISTATS, T
 
 ### 📬 Contact
 
-- **Email**: [2713091379@qq.com](mailto:2713091379@qq.com) or [jian.xu@a.riken.jp](mailto:jian.xu@a.riken.jp)
+- **Email**: [2713091379@qq.com](mailto:2713091379@qq.com) or [jian.xu@riken.jp](mailto:jian.xu@riken.jp)
  - **Location**: Nihonbashi, Tokyo, Japan
 
 ---
