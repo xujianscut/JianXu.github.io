@@ -45,14 +45,14 @@ My first-author work has appeared in ICML (Oral, Top 1%), ICLR, AAAI, AISTATS, T
 - Quantum Machine Learning
 
 ### 📝 Selected Publications
+- Sparse Variational Student-t Processes for Heavy-Tailed Modeling* - **IEEE TNNLS**
+https://ieeexplore.ieee.org/abstract/document/11441992
 - *Diffusion Bridge Variational Inference for Deep Gaussian Processes* - **ICLR 2026** https://arxiv.org/pdf/2509.19078
 - *Sparse Inducing Points in Deep Gaussian Processes* – **ICML 2024 (Oral, Top 1%)** https://arxiv.org/pdf/2407.17033
 - *Sparse Variational Student-t Processes* – **AAAI 2024** https://arxiv.org/abs/2312.05568
 - *Neural Operator Variational Inference* – **IEEE TNNLS** https://ieeexplore.ieee.org/abstract/document/10637293
 - *Fully Bayesian Differential Gaussian Processes* – **KBS** https://www.sciencedirect.com/science/article/abs/pii/S0950705125002345
 - *Double Normalizing Flows for Bayesian ODEs* – **AISTATS 2025** https://proceedings.mlr.press/v258/xu25b.html
-- Variational Learning of Gaussian Process Latent Variable Models through Stochastic Gradient Annealed Importance Sampling – **UAI 2025** https://www.arxiv.org/abs/2408.06710
-
 
 
 
