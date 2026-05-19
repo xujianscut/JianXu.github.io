@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+📄 **[Download CV (PDF)](/files/cv_jianxu.pdf)**
+
 Education
 ======
 * **Ph.D. in Computational Mathematics & Electronic Information**, South China University of Technology, 2020 – 2025
