@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Jian Xu / Ph.D"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jian Xu"
+description              : &description "Postdoctoral researcher at RIKEN iTHEMS & AIP. Probabilistic machine learning, Bayesian deep learning, Gaussian processes, variational inference, diffusion models, quantum ML."
 
 #url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 url                      : https://xujianscut.github.io/JianXu.github.io
